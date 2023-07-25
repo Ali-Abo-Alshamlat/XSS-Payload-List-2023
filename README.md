@@ -1,1 +1,1 @@
-# XSS-Payload-List-2023
+# XSS Payload List 2023
